@@ -2,5 +2,7 @@
 
 ## Pasta Inicial relativa ao desafio do repertório do Github.
 
-### ### pasta do desafio Git GitHub anexada
+### ### pasta do desafio Git GitHub anexada.
+
+
 
